@@ -1,0 +1,301 @@
+EmployeeID,JoinDate,EndDate,Department,Role,Salary,Location,PerformanceScore,SatisfactionScore
+1,2021-08-15,,IT,Manager,31524,New York,1,8
+2,2021-11-06,,HR,Analyst,43350,Bangalore,3,2
+3,2022-06-06,,HR,Engineer,81474,New York,4,1
+4,2021-08-14,2024-06-19,IT,Executive,50491,London,3,8
+5,2020-10-22,,IT,Manager,92552,Tokyo,3,10
+6,2020-05-03,,HR,Engineer,100342,New York,2,5
+7,2022-01-14,,Operations,Executive,99768,Bangalore,2,7
+8,2023-02-09,2024-09-24,Sales,Executive,49426,London,3,10
+9,2020-09-06,,Finance,Engineer,87132,London,3,5
+10,2022-04-09,,Sales,Executive,86846,Tokyo,1,4
+11,2022-10-04,,Operations,Manager,104859,London,2,7
+12,2021-01-08,2024-04-15,Finance,Executive,105532,New York,2,3
+13,2021-11-28,,IT,Analyst,103972,Tokyo,1,8
+14,2023-11-07,,IT,Executive,33430,Tokyo,5,1
+15,2023-09-09,,HR,Engineer,62913,London,5,9
+16,2020-03-07,2022-02-09,IT,Executive,110688,New York,4,10
+17,2019-03-02,,Finance,Manager,64636,London,1,7
+18,2020-07-17,,Sales,Analyst,111470,London,5,3
+19,2023-02-25,,HR,Analyst,112856,New York,2,3
+20,2023-12-03,,IT,Analyst,106898,Tokyo,2,1
+21,2023-05-16,,HR,Manager,54578,Tokyo,3,6
+22,2021-02-19,2024-04-07,IT,Analyst,64701,New York,2,9
+23,2021-08-09,,IT,Executive,118801,Tokyo,2,9
+24,2023-01-26,2023-03-06,Finance,Executive,111121,Tokyo,4,6
+25,2019-11-24,2023-05-21,HR,Manager,39903,New York,4,5
+26,2021-08-30,,Operations,Engineer,32396,Bangalore,2,3
+27,2023-05-11,,Finance,Analyst,116231,Bangalore,4,1
+28,2020-07-24,,Operations,Executive,81756,New York,5,10
+29,2019-12-22,,Sales,Executive,93620,Bangalore,5,10
+30,2021-01-30,2023-12-20,HR,Engineer,52890,New York,2,4
+31,2022-07-05,2024-06-21,Sales,Executive,105713,Tokyo,5,1
+32,2022-06-10,,HR,Engineer,67311,Tokyo,5,3
+33,2021-10-04,2023-01-13,HR,Analyst,72207,London,4,5
+34,2021-09-15,2022-06-19,Sales,Manager,37491,Bangalore,1,6
+35,2020-02-05,,HR,Engineer,97889,London,5,4
+36,2021-02-01,,Sales,Executive,87372,Bangalore,1,6
+37,2021-05-28,2021-08-14,Finance,Manager,74569,London,2,4
+38,2022-01-27,2023-02-27,Operations,Analyst,47482,Tokyo,2,4
+39,2021-11-11,2024-03-08,Sales,Analyst,83268,Bangalore,5,4
+40,2023-12-03,,Finance,Executive,37424,London,4,6
+41,2023-03-31,,IT,Analyst,112711,Tokyo,2,8
+42,2021-12-19,,Operations,Analyst,38711,Bangalore,3,2
+43,2019-07-18,2020-08-07,Sales,Analyst,35655,Tokyo,2,3
+44,2021-07-04,,IT,Manager,109083,Tokyo,4,9
+45,2023-08-29,,Operations,Analyst,84615,Tokyo,3,1
+46,2019-03-13,,HR,Manager,92046,London,3,9
+47,2021-03-11,2021-06-20,Finance,Manager,99298,Tokyo,1,1
+48,2020-08-10,,Sales,Engineer,65488,London,2,1
+49,2019-01-02,,IT,Analyst,86985,London,2,6
+50,2021-05-20,,HR,Executive,98577,London,4,1
+51,2019-11-13,,IT,Executive,56015,New York,2,8
+52,2023-09-10,2024-08-22,Finance,Executive,56630,Bangalore,4,4
+53,2022-11-14,2023-09-23,Finance,Executive,51288,Tokyo,2,2
+54,2021-10-10,,Operations,Analyst,109148,Bangalore,2,3
+55,2023-05-10,2024-04-29,Operations,Executive,32356,Bangalore,3,2
+56,2021-07-02,,IT,Executive,90315,London,3,3
+57,2020-03-20,,IT,Executive,60027,New York,5,10
+58,2021-08-14,,Sales,Engineer,55963,London,4,8
+59,2023-05-05,,HR,Engineer,107539,London,2,4
+60,2023-12-03,,Finance,Manager,72229,New York,4,3
+61,2022-06-14,,IT,Executive,49975,Tokyo,2,2
+62,2020-01-10,2020-10-28,Operations,Analyst,65133,London,4,8
+63,2019-08-19,,IT,Executive,91272,New York,4,2
+64,2022-04-01,,IT,Engineer,116475,Tokyo,4,7
+65,2022-08-19,,Finance,Manager,112189,Tokyo,2,10
+66,2021-04-23,,Operations,Engineer,109530,Tokyo,1,9
+67,2020-07-29,,IT,Executive,85204,Bangalore,5,5
+68,2019-11-01,2023-12-30,Sales,Executive,97278,London,4,4
+69,2019-11-30,,Operations,Engineer,30281,New York,1,7
+70,2021-11-24,,Finance,Analyst,59856,New York,3,10
+71,2019-10-03,,Finance,Executive,95661,London,1,2
+72,2023-12-26,,Finance,Manager,39110,Tokyo,4,7
+73,2020-01-19,,HR,Manager,112811,Bangalore,2,5
+74,2019-05-09,,Operations,Executive,78320,Bangalore,2,10
+75,2022-12-08,,HR,Engineer,95838,Tokyo,1,8
+76,2019-12-11,2022-03-03,IT,Executive,109134,Tokyo,5,5
+77,2019-12-27,,HR,Manager,47087,London,1,1
+78,2023-09-01,2023-11-28,IT,Analyst,115150,New York,3,4
+79,2023-06-22,2024-07-06,Sales,Manager,34114,London,2,2
+80,2020-02-01,,Operations,Executive,33712,Tokyo,1,5
+81,2023-08-06,,Operations,Executive,65643,New York,1,1
+82,2019-11-01,,Sales,Manager,93449,Bangalore,3,8
+83,2023-07-04,,HR,Manager,61348,New York,2,9
+84,2019-01-12,,Operations,Executive,41563,Tokyo,3,7
+85,2022-09-11,2024-12-02,Finance,Executive,88348,New York,3,7
+86,2019-12-02,,IT,Engineer,38906,Bangalore,4,5
+87,2019-05-21,,Operations,Engineer,37151,New York,4,3
+88,2023-07-30,,HR,Manager,74976,New York,4,10
+89,2022-09-30,,Sales,Manager,59734,New York,1,10
+90,2020-03-20,2021-01-11,Sales,Engineer,42149,Bangalore,1,8
+91,2023-09-05,,Operations,Executive,95429,London,5,6
+92,2022-05-28,2024-11-17,HR,Engineer,106153,New York,5,10
+93,2020-08-06,,HR,Executive,64084,Tokyo,2,8
+94,2020-06-14,,HR,Analyst,95681,Bangalore,4,10
+95,2021-09-19,,IT,Executive,47633,New York,5,1
+96,2020-10-23,,Finance,Engineer,70390,Tokyo,3,10
+97,2021-08-26,,IT,Manager,116936,London,3,7
+98,2023-06-09,,IT,Analyst,85754,Bangalore,4,3
+99,2023-05-23,,Operations,Manager,42323,Tokyo,5,1
+100,2023-08-27,,IT,Executive,98008,Bangalore,4,1
+101,2021-04-07,2023-11-18,Finance,Engineer,44484,Tokyo,2,3
+102,2021-10-10,,HR,Executive,49201,London,1,3
+103,2019-12-20,,Sales,Manager,90963,New York,5,9
+104,2019-11-07,,IT,Executive,98619,New York,4,8
+105,2021-09-06,2023-02-02,Operations,Executive,85922,Tokyo,5,4
+106,2022-06-25,,Operations,Engineer,115957,London,2,8
+107,2023-11-02,,Sales,Manager,39715,London,5,4
+108,2020-04-25,,HR,Analyst,65585,Bangalore,1,9
+109,2020-03-24,,HR,Engineer,94977,Bangalore,3,6
+110,2019-05-23,,Sales,Manager,42329,London,2,3
+111,2022-03-27,,Finance,Engineer,61750,Tokyo,1,5
+112,2023-08-26,,Finance,Manager,102909,Tokyo,2,10
+113,2023-04-10,2023-12-18,Sales,Executive,35901,New York,5,4
+114,2021-06-17,,IT,Analyst,78244,London,5,2
+115,2021-08-21,,Operations,Engineer,119099,Tokyo,4,4
+116,2023-08-09,,Operations,Executive,116269,London,4,7
+117,2020-04-11,,Finance,Manager,85677,Bangalore,2,8
+118,2023-01-26,,IT,Executive,91588,New York,4,3
+119,2019-09-20,,IT,Engineer,76851,Bangalore,1,5
+120,2022-10-14,,Sales,Engineer,42411,London,2,5
+121,2023-07-10,,Sales,Manager,61174,New York,5,6
+122,2023-07-27,,Finance,Analyst,103294,New York,2,7
+123,2022-12-17,,HR,Manager,86532,New York,2,5
+124,2019-06-22,,Finance,Analyst,100331,Bangalore,5,4
+125,2023-11-27,,Sales,Manager,67487,Tokyo,2,8
+126,2022-06-04,,Operations,Manager,85316,London,5,1
+127,2019-04-15,,IT,Analyst,94641,Tokyo,5,1
+128,2021-10-30,,Sales,Engineer,58602,London,1,1
+129,2021-08-13,2023-12-16,Operations,Engineer,93936,Bangalore,5,8
+130,2021-04-24,,Finance,Analyst,37788,Bangalore,3,8
+131,2021-11-06,2022-04-02,HR,Executive,78355,Bangalore,4,3
+132,2022-11-15,,Finance,Manager,59956,New York,2,6
+133,2023-07-05,2024-07-06,IT,Analyst,82161,Bangalore,2,3
+134,2023-05-04,,IT,Analyst,108040,London,2,10
+135,2019-05-29,,HR,Manager,69071,Bangalore,4,2
+136,2020-06-06,,HR,Executive,75000,New York,3,10
+137,2021-09-11,,Sales,Analyst,106971,Tokyo,3,1
+138,2021-06-06,2021-10-05,IT,Engineer,80408,Bangalore,2,5
+139,2022-11-21,2024-09-11,Sales,Engineer,87941,London,3,9
+140,2020-06-17,,HR,Manager,94028,New York,4,2
+141,2023-06-19,,Sales,Analyst,33754,New York,5,1
+142,2020-11-26,,Finance,Executive,81612,London,4,9
+143,2022-02-25,,IT,Engineer,79666,New York,4,8
+144,2023-02-15,2023-09-26,HR,Executive,98056,London,5,7
+145,2023-10-21,,Operations,Analyst,114899,London,2,10
+146,2019-11-10,2021-05-28,IT,Manager,70372,New York,4,3
+147,2023-10-25,2024-01-02,Operations,Manager,39596,Tokyo,4,10
+148,2020-06-19,,Operations,Manager,108645,Tokyo,5,10
+149,2019-02-07,,Operations,Engineer,89664,Bangalore,4,3
+150,2023-10-18,,Sales,Engineer,66727,London,2,2
+151,2019-06-08,2022-10-01,IT,Executive,35997,Bangalore,5,10
+152,2021-09-24,2024-11-07,Finance,Engineer,111580,Tokyo,1,7
+153,2020-04-25,,IT,Executive,55051,Bangalore,3,9
+154,2021-10-16,,IT,Manager,64051,Tokyo,3,6
+155,2023-05-02,2023-07-18,IT,Manager,33471,New York,1,4
+156,2023-05-16,,Operations,Executive,36397,London,5,6
+157,2020-07-16,,Finance,Manager,100553,Bangalore,5,5
+158,2019-02-18,,HR,Engineer,59309,Bangalore,2,3
+159,2020-10-02,2022-12-02,IT,Manager,47069,Tokyo,4,9
+160,2023-04-16,,Sales,Analyst,110797,Tokyo,4,10
+161,2020-02-18,,Finance,Executive,49675,London,2,6
+162,2023-06-30,,IT,Analyst,35347,Tokyo,3,4
+163,2019-09-07,,Sales,Manager,60682,Bangalore,2,8
+164,2022-05-11,,Operations,Manager,107465,Tokyo,1,5
+165,2019-11-10,,Finance,Executive,64521,New York,1,3
+166,2020-01-06,,IT,Analyst,36304,London,5,4
+167,2021-06-13,,IT,Analyst,105415,New York,5,2
+168,2019-01-28,,IT,Analyst,97169,London,2,1
+169,2021-04-21,,IT,Manager,95633,Tokyo,3,7
+170,2022-01-14,,Sales,Executive,78777,Bangalore,3,1
+171,2021-08-17,,Sales,Manager,93870,Tokyo,4,6
+172,2023-08-06,,Sales,Engineer,30781,Bangalore,5,9
+173,2020-11-10,2021-01-06,IT,Executive,111816,Tokyo,3,8
+174,2021-12-03,,Finance,Manager,94166,Tokyo,1,2
+175,2022-12-21,2024-11-28,Sales,Manager,79159,Tokyo,4,9
+176,2019-06-13,,IT,Executive,70846,Tokyo,2,10
+177,2021-04-07,,HR,Executive,67711,Bangalore,5,3
+178,2019-10-10,,IT,Engineer,115120,Bangalore,5,5
+179,2019-09-17,,Finance,Engineer,92987,Bangalore,1,7
+180,2021-10-09,,Sales,Engineer,31125,London,3,7
+181,2023-07-22,,IT,Engineer,54217,London,5,3
+182,2020-12-01,2021-08-22,HR,Manager,60930,Tokyo,4,9
+183,2022-11-19,2024-02-11,Sales,Analyst,73732,Tokyo,2,6
+184,2022-02-28,,HR,Engineer,66116,Tokyo,2,1
+185,2021-09-07,,HR,Manager,63866,New York,1,5
+186,2020-09-11,2023-01-20,Finance,Analyst,88067,New York,2,2
+187,2020-04-27,,IT,Engineer,58795,New York,3,4
+188,2020-03-17,,Finance,Analyst,80100,London,4,4
+189,2020-04-04,2024-02-27,Finance,Engineer,59516,Bangalore,2,3
+190,2023-10-27,,Finance,Executive,113297,Tokyo,4,5
+191,2021-04-19,,Finance,Engineer,38472,Tokyo,2,6
+192,2023-10-17,2024-03-14,Finance,Manager,45282,Bangalore,2,3
+193,2023-10-03,,IT,Executive,43947,Bangalore,1,3
+194,2021-07-31,,Operations,Analyst,81875,Tokyo,1,9
+195,2019-11-16,,IT,Manager,41240,Bangalore,1,4
+196,2019-03-09,2021-11-20,IT,Analyst,119709,London,1,8
+197,2022-02-24,,IT,Engineer,39885,Tokyo,3,2
+198,2023-02-01,,Sales,Analyst,72946,Tokyo,1,5
+199,2022-05-09,,Finance,Analyst,116497,Tokyo,1,8
+200,2022-08-17,,Sales,Manager,101853,Bangalore,1,3
+201,2019-01-26,,Operations,Executive,91944,New York,3,4
+202,2023-01-18,,Sales,Analyst,38770,London,4,2
+203,2022-03-31,2023-03-12,IT,Engineer,72070,London,1,2
+204,2020-07-26,,Finance,Engineer,115371,London,1,9
+205,2019-04-03,,Finance,Engineer,86044,Tokyo,1,6
+206,2019-02-18,,Finance,Engineer,46724,New York,1,10
+207,2022-10-18,,Operations,Analyst,34648,New York,5,3
+208,2023-05-14,2023-11-12,Operations,Engineer,110650,London,3,1
+209,2022-04-06,2023-12-16,Operations,Analyst,102124,Tokyo,1,10
+210,2019-04-13,2021-12-25,IT,Executive,109190,London,5,7
+211,2023-09-09,2024-03-01,HR,Manager,68211,London,1,4
+212,2020-08-16,,Sales,Engineer,108931,New York,1,10
+213,2023-11-14,2024-04-04,HR,Executive,66636,New York,2,2
+214,2022-07-13,,IT,Analyst,76619,Bangalore,4,6
+215,2020-10-28,2022-07-18,Finance,Engineer,101975,London,1,9
+216,2019-09-25,,Operations,Executive,61705,New York,5,1
+217,2022-02-24,,IT,Manager,40516,London,3,2
+218,2020-02-24,,IT,Analyst,105749,London,4,2
+219,2023-12-29,2024-07-10,IT,Executive,112279,Bangalore,2,9
+220,2022-02-15,,Sales,Analyst,111926,Tokyo,5,8
+221,2021-04-12,2024-08-10,Finance,Analyst,70379,London,4,3
+222,2022-12-21,2024-04-12,Finance,Analyst,41120,London,5,8
+223,2021-07-18,,Sales,Analyst,113820,London,5,8
+224,2022-09-29,,Operations,Engineer,37597,London,3,10
+225,2023-05-06,2024-01-22,Operations,Manager,83161,New York,2,5
+226,2019-06-19,,Sales,Manager,101675,New York,1,4
+227,2019-04-19,,Operations,Analyst,32352,New York,2,6
+228,2021-03-31,,HR,Manager,86882,London,1,5
+229,2021-07-30,,Sales,Executive,30358,Tokyo,3,1
+230,2023-06-16,2024-03-21,Operations,Executive,94353,Bangalore,4,3
+231,2020-05-23,2021-02-19,HR,Engineer,104965,New York,2,3
+232,2019-06-14,,Sales,Analyst,65428,Tokyo,3,5
+233,2019-09-24,,Sales,Manager,58308,London,3,7
+234,2020-04-20,2024-07-08,Sales,Analyst,96093,London,4,6
+235,2023-04-02,,Sales,Engineer,86115,Tokyo,2,4
+236,2022-01-30,,Finance,Engineer,98344,Bangalore,2,1
+237,2023-09-11,2024-11-20,HR,Engineer,48354,Bangalore,4,7
+238,2019-12-31,,IT,Engineer,112035,New York,1,1
+239,2021-05-30,2023-06-05,Finance,Executive,78933,Bangalore,3,5
+240,2021-11-02,,HR,Engineer,66188,London,3,3
+241,2023-05-09,,Sales,Manager,41944,Tokyo,3,8
+242,2022-08-02,2022-09-27,Finance,Executive,40503,London,1,8
+243,2022-09-12,,IT,Engineer,62792,New York,1,5
+244,2019-05-21,2024-03-22,Sales,Engineer,71160,Bangalore,1,4
+245,2020-06-30,,IT,Manager,84189,London,4,6
+246,2022-01-03,2024-06-30,Operations,Engineer,117329,New York,5,3
+247,2022-02-20,,IT,Executive,42449,London,4,6
+248,2022-04-26,,Operations,Engineer,40350,Bangalore,4,2
+249,2019-10-22,2023-11-04,Finance,Manager,53782,New York,1,1
+250,2022-06-10,2024-04-09,Operations,Executive,91202,New York,1,6
+251,2019-01-31,,HR,Manager,119571,Tokyo,4,4
+252,2019-06-09,,Sales,Manager,38244,Tokyo,4,7
+253,2021-02-14,,HR,Manager,103463,London,3,9
+254,2023-10-06,,IT,Manager,61897,London,1,7
+255,2022-01-16,,Operations,Engineer,85103,New York,4,9
+256,2020-07-30,2020-12-13,Sales,Engineer,46209,Bangalore,3,3
+257,2019-06-26,,Sales,Executive,62441,Bangalore,2,1
+258,2023-10-19,,Operations,Analyst,45372,New York,1,8
+259,2020-06-06,2024-06-20,IT,Analyst,46211,Bangalore,3,5
+260,2021-03-20,,Sales,Engineer,117592,Bangalore,2,3
+261,2022-06-13,,IT,Analyst,32257,New York,5,4
+262,2019-01-31,,Finance,Manager,64773,New York,4,7
+263,2022-04-11,,Sales,Manager,53554,Tokyo,4,5
+264,2020-06-23,,IT,Engineer,90948,Tokyo,3,3
+265,2023-03-29,2024-02-04,HR,Analyst,92507,Bangalore,5,10
+266,2020-07-11,,HR,Manager,38016,Tokyo,2,3
+267,2020-01-22,,Sales,Manager,84131,Tokyo,5,9
+268,2021-01-09,,IT,Engineer,49611,Tokyo,1,8
+269,2023-06-16,,Finance,Executive,60116,London,5,9
+270,2019-02-02,,Sales,Analyst,50093,Tokyo,3,5
+271,2020-04-28,2022-12-26,Finance,Analyst,34426,Tokyo,1,7
+272,2020-12-29,,Sales,Engineer,32204,London,2,7
+273,2022-05-26,2023-10-23,IT,Executive,41908,Tokyo,4,2
+274,2022-09-16,,IT,Analyst,68458,London,4,7
+275,2019-12-28,,HR,Executive,119388,Bangalore,3,5
+276,2020-03-31,2024-01-13,Sales,Executive,104218,New York,1,4
+277,2022-01-30,2022-09-02,IT,Executive,110360,London,2,10
+278,2023-11-12,,Sales,Analyst,77562,Tokyo,1,2
+279,2020-02-26,,Operations,Manager,57076,London,2,10
+280,2019-10-29,,Operations,Engineer,107227,New York,3,1
+281,2023-10-11,2024-06-06,HR,Executive,84110,Tokyo,4,6
+282,2023-09-01,,Sales,Engineer,103402,London,1,5
+283,2023-06-13,,HR,Manager,88627,Tokyo,3,2
+284,2022-07-20,,HR,Manager,100902,Tokyo,5,10
+285,2019-01-08,,IT,Executive,51542,New York,3,4
+286,2023-06-12,,IT,Analyst,52601,Tokyo,5,10
+287,2022-07-02,,HR,Engineer,34967,London,3,6
+288,2020-09-04,,Finance,Engineer,113596,New York,2,4
+289,2022-07-12,,Finance,Manager,97712,Tokyo,1,7
+290,2023-11-12,,Operations,Manager,33696,Bangalore,3,10
+291,2020-12-18,2023-10-24,Sales,Analyst,105731,New York,3,2
+292,2019-11-20,,HR,Manager,60099,Tokyo,2,9
+293,2019-04-15,,IT,Manager,73361,Tokyo,5,9
+294,2021-01-02,2022-12-11,Finance,Analyst,52626,Tokyo,2,3
+295,2020-02-07,,HR,Engineer,37812,New York,4,7
+296,2021-05-23,,Sales,Analyst,50700,Tokyo,1,3
+297,2019-04-22,,IT,Executive,61555,London,3,5
+298,2020-12-07,2024-09-27,Operations,Engineer,92433,New York,2,4
+299,2019-10-17,,Sales,Executive,73884,New York,5,9
+300,2021-04-04,,Operations,Analyst,118454,Bangalore,5,4
